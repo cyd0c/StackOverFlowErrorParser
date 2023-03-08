@@ -3,7 +3,7 @@
 # This is the initial stage for stackoverflow  error parser script
 
 to run this script:
-'''
+
 * download the file
 * extract
 * open the collage-project folder in vscode
@@ -14,4 +14,4 @@ to run this script:
 * save your code 
 * run parserv1.py
 * if error ,you will be navigated to stackoverflow 
-'''
+
