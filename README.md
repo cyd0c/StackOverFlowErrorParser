@@ -1,10 +1,10 @@
 # Collage-project
 # StackOverflow Error Parser
-#This is the initial stage for stackoverflow  error parser script
+# This is the initial stage for stackoverflow  error parser script
 
 to run this script:
 '''
-1.download the file
+*1.download the file
 2.extract
 3.open the collage-project folder in vscode
 4.open parserv1
